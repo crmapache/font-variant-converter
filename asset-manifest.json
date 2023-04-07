@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/font-variant-converter/static/css/main.9a20532f.css",
-    "main.js": "/font-variant-converter/static/js/main.b9f5037e.js",
+    "main.css": "/font-variant-converter/static/css/main.d449f949.css",
+    "main.js": "/font-variant-converter/static/js/main.0541f8e3.js",
     "index.html": "/font-variant-converter/index.html",
-    "main.9a20532f.css.map": "/font-variant-converter/static/css/main.9a20532f.css.map",
-    "main.b9f5037e.js.map": "/font-variant-converter/static/js/main.b9f5037e.js.map"
+    "main.d449f949.css.map": "/font-variant-converter/static/css/main.d449f949.css.map",
+    "main.0541f8e3.js.map": "/font-variant-converter/static/js/main.0541f8e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a20532f.css",
-    "static/js/main.b9f5037e.js"
+    "static/css/main.d449f949.css",
+    "static/js/main.0541f8e3.js"
   ]
 }
